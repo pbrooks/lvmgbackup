@@ -1,0 +1,9 @@
+enabled=true
+vg=vgname
+host=hostname
+dbenabled=true
+dbhost=hostname
+dbuser=user
+dbpassword=password
+dbport-3306
+dbtype=mysql or mssql/Users/pbrooks/github/lvmgbackup/bin/lvmgbackup.sh
